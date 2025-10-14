@@ -2,4 +2,4 @@
 Esse site vai te levar a fazer uma boa ação &lt;3
 
 ##
-https://github.com/Luix-19/Corinthians
+https://luix-19.github.io/Corinthians/
